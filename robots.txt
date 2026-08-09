@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-s3v7ko.oppatoto88aoa.cyou/sitemap.xml
